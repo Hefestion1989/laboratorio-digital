@@ -22,6 +22,13 @@ Los proyectos locales ya estan ordenados dentro de `proyectos/`:
 - `pdf-concept-search`: prototipo de busqueda conceptual sobre PDFs.
 - `procesamiento-txt`: flujo simple para mover, limpiar y registrar archivos TXT.
 
+## Archivo editorial
+
+Dentro de `archivo/editorial/` quedan los materiales de escritura y publicacion:
+
+- `subjetividad-no-biologica`: ensayo sobre subjetividad artificial.
+- `ensayos-ia-conciencia-sociedad`: coleccion academica sobre IA, conciencia, subjetividad y gobernanza tecnologica.
+
 ## Uso recomendado
 
 1. Crear o traer proyectos nuevos dentro de `proyectos/`.
