@@ -8,6 +8,9 @@ Carpeta para proyectos activos, prototipos maduros o herramientas que puedan con
 - `office-copilot`: macros para Excel y Word con ChatGPT.
 - `pdf-concept-search`: buscador conceptual simple sobre PDFs.
 - `procesamiento-txt`: flujo de limpieza y movimiento de archivos TXT.
+- `VeryCheck`: producto de verificacion y fact-checking.
+- `promptmaster-ai`: herramienta avanzada para prompts con React/Gemini.
+- `Prompts`: taller simple y offline de prompts.
 
 ## Criterio
 
