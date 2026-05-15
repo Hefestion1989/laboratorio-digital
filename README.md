@@ -21,6 +21,9 @@ Los proyectos locales ya estan ordenados dentro de `proyectos/`:
 - `office-copilot`: macros para usar ChatGPT desde Excel y Word.
 - `pdf-concept-search`: prototipo de busqueda conceptual sobre PDFs.
 - `procesamiento-txt`: flujo simple para mover, limpiar y registrar archivos TXT.
+- `VeryCheck`: producto de verificacion y fact-checking.
+- `promptmaster-ai`: herramienta avanzada para prompts con React/Gemini.
+- `Prompts`: taller simple y offline de prompts.
 
 ## Archivo editorial
 
