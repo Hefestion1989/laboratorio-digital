@@ -2,4 +2,9 @@
 
 Textos, colecciones y materiales de publicacion.
 
-La coleccion `ensayos-ia-conciencia-sociedad` queda aca como material editorial separado de los proyectos de software.
+Estos materiales quedan separados de los proyectos de software.
+
+## Contenido
+
+- `subjetividad-no-biologica`: ensayo sobre subjetividad artificial.
+- `ensayos-ia-conciencia-sociedad`: coleccion academica sobre IA, conciencia, subjetividad y gobernanza tecnologica.
